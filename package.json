@@ -1,0 +1,19 @@
+{
+  "name": "extractnumbersonly",
+  "version": "1.0.0",
+  "description": "This is used to extract string only.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BahirathyR/ExtractNumbersOnly.git"
+  },
+  "author": "Bahirathy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BahirathyR/ExtractNumbersOnly/issues"
+  },
+  "homepage": "https://github.com/BahirathyR/ExtractNumbersOnly#readme"
+}
