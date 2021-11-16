@@ -1,6 +1,6 @@
 ## what is this?
 
-This is used to extract string only.
+This is used to extract Numbers only.
 
 ## Installation
 
@@ -23,6 +23,6 @@ extractnumbersonly(str)
 
 ## Options
 
-string consider either Uppercase and Lowercase or both
+Extract Numbers only
 
-
+var str="hello1234world"
